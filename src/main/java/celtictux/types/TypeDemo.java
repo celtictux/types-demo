@@ -2,9 +2,6 @@ package celtictux.types;
 
 import java.util.Scanner;
 
-/**
- * Created by adamkelso on 10/05/17.
- */
 public class TypeDemo {
 
     private final int primInteger = 1;

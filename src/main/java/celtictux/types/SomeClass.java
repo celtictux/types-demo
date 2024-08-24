@@ -1,8 +1,5 @@
 package celtictux.types;
 
-/**
- * Created by adamkelso on 10/05/17.
- */
 public class SomeClass {
 
     private String someString;
